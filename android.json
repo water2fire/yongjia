@@ -1,0 +1,11 @@
+{
+  "domainUrl":"",
+  "updateUrl":"http://appdown.hezubar.com/yongjia_download/",
+  "branches":[
+    {
+      "code":"1000",
+      "version":"1.0.0",
+      "status":"release"
+    }
+  ]
+}
